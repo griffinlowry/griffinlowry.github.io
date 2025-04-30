@@ -13,6 +13,9 @@ permalink: /presentations/
 <br>
 <br>
 <h3>Poster Presentations</h3>
+<h5>2025</h5>
+"Lingual Ultrasound Study of DFD Patients’ Speech Following Orthognathic Surgery" at <i>American Association for Dental, Oral, and Craniofacial Research</i>. Co-authors: Erika Rezende Silva, Jeff Mielke, David Zajac, Laura Jacox.
+<br>
 <h5>2024</h5>
 "Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-author: Robin Dodsworth.
 <br>
