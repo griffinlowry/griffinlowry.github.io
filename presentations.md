@@ -16,7 +16,7 @@ permalink: /presentations/
 <br>
 <h3>Poster Presentations</h3>
 <h5>2024</h5>
-"Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-authored with Robin Dodsworth.
+"Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-author: Robin Dodsworth.
 <br>
 <br>
 <h5>2023</h5>
