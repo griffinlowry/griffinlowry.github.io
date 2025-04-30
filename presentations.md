@@ -20,4 +20,4 @@ permalink: /presentations/
 "Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-author: Robin Dodsworth.
 <br>
 <h5>2023</h5>
-"Durational Variations in Raleigh and Ocracoke Vowel Productions: Methods for analyzing undershoot" at <i>Acoustical Society of America</i>.
+"Durational Variations in Raleigh and Ocracoke Vowel Productions: Methods for analyzing undershoot" at <i>Acoustical Society of America</i>. [Abstract](https://griffinlowry.github.io/images/ASA_abstract.pdf)
