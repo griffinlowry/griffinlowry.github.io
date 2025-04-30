@@ -17,7 +17,7 @@ permalink: /presentations/
 "Lingual Ultrasound Study of DFD Patients’ Speech Following Orthognathic Surgery" at <i>American Association for Dental, Oral, and Craniofacial Research</i>. Co-authors: Erika Rezende Silva, Jeff Mielke, David Zajac, Laura Jacox.
 <br>
 <h5>2024</h5>
-"Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-author: Robin Dodsworth.
+"Vernacular 'like' in Raleigh: Black and White speakers" at <i>Linguistic Society of America</i>. Co-author: Robin Dodsworth. [Abstract](https://griffinlowry.github.io/images/LSA_abstract.pdf)
 <br>
 <h5>2023</h5>
 "Durational Variations in Raleigh and Ocracoke Vowel Productions: Methods for analyzing undershoot" at <i>Acoustical Society of America</i>. [Abstract](https://griffinlowry.github.io/images/ASA_abstract.pdf)
