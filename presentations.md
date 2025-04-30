@@ -9,7 +9,7 @@ permalink: /presentations/
 "Continued Restructuring of the English quotative system: <i>it's like</i>" at <i>New Ways of Analyzing Variation (NWAV)</i>. Co-authors: Jeannene Matthews and Robin Dodsworth. [Abstract](https://griffinlowry.github.io/images/abstract_nwav_like.pdf)
 <br>
 <h5>2023</h5>
-"You will never <i>be</i>: Exclusionary Tactics and Stance Cohorts in Transphobic Hate Speech" at <i>Southeastern Conference on Linguistics (SECOL)</i>.
+"You will never <i>be</i>: Exclusionary Tactics and Stance Cohorts in Transphobic Hate Speech" at <i>Southeastern Conference on Linguistics (SECOL)</i>. [Abstract](https://griffinlowry.github.io/images/SECOL_abstract.pdf)
 <br>
 <br>
 <h3>Poster Presentations</h3>
