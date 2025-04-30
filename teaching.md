@@ -11,7 +11,7 @@ Graduate Teaching Assistant, NC State, Department of English
 Graduate Teaching Assistant, NC State, Department of English
 <br>
 <b>Instructor</b>: Dr. Erik Thomas
-<h5>2023 Spring 2023 - ENG326: History of English</h5>
+<h5>2023 Spring - ENG326: History of English</h5>
 Graduate Teaching Assistant, NC State, Department of English
 <br>
 <b>Instructor</b>: Dr. Erik Thomas
