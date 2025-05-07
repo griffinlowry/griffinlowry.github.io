@@ -22,6 +22,7 @@ permalink: /presentations/
 <h5>2023</h5>
 "Durational Variations in Raleigh and Ocracoke Vowel Productions: Methods for analyzing undershoot" at <i>Acoustical Society of America</i>. [Abstract](https://griffinlowry.github.io/images/ASA_abstract.pdf)
 <br>
+<br>
 <h3>Other Posters</h3>
 <h5>2025</h5>
 "Perceptions of speech before and after orthognathic surgery" at Adams School of Dentistry 41st Annual Research Day. Co-authors: Erika Rezende Silva, David Zajac, Jeannene Matthews, Jeff Mielke, and Laura Jacox. [Poster](https://griffinlowry.github.io/images/ASOD_DRD2025_Lowry.pdf)
