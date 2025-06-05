@@ -13,7 +13,7 @@ citation: 'Lowry, Griffin, Erika Rezende Silva, Jeannene Matthews, Ayumi Shoji, 
 ---
 
 **ABSTRACT** <br> <br>
-*Objectives*
+*Objectives* <br>
 This study evaluated the effects of orthognathic surgery on speech of Class III (‘underbite’) patients with repaired cleft lip and palate (CLP) through ultrasound imaging, aerodynamic assessment and articulatory analyses before and after surgery to evaluate how surgery impacts articulation, velopharyngeal (VP) function and hypernasality. <br> <br>
 *Materials and Methods* <br>
 Tongue gestures of five Class III patients with repaired CLP, five Class III patients without CLP and five Class I controls were visualised through ultrasound imaging pre- and post-surgery. Tongue Dorsum Excursion Index and Tongue Constraint Position Index (TCPI) were calculated using ultrasound, and VP insufficiency (VPI) indices were measured using pressure flow assessment and compared with qualitative-perceptual ratings by Speech-Language Pathologists (SLPs). Linear mixed-effects models were used to test for significant post-operative changes in Dorsum Excursion Index and TCPI among consonants. Pressure flow measures are expected to estimate VP gap size during speech using PERCI-SARS. <br> <br>
