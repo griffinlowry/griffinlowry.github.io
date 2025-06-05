@@ -12,6 +12,3 @@ I am a linguist interested in how articulation relates to acoustics, phonologica
 <br>
 <br>
 More to be added soon...
-<br>
-<br>
-<i>Last updated on 2025-4-29</i>
