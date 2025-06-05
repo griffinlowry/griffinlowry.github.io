@@ -10,4 +10,4 @@ location: "New York City, NY, USA"
 
 Co-authored with Erika Rezende Silva (presenter).
 
-[Abstract](http://example2.com)
+[Abstract](http://griffinlowry.github.io/files/aadocr_abstract.pdf)
