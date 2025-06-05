@@ -9,7 +9,7 @@ venue: 'Orthodontics & Craniofacial Research'
 slidesurl: 
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/ocr.12926'
 bibtexurl: 
-citation: 'Lowry, Griffin, Erika Rezende Silva, Jeannene Matthews, Ayumi Shoji, Timothy Turvey, George Blakey, David Zajac, Jeff Mielke, and Laura Anne Jacox. (2025). &quot;A Lingual Ultrasound Study of Speech in Patients With Cleft Lip and Palate Following Orthognathic Surgery.&quot; <i>Orthodontics & Craniofacial Research</i>. 1(1).'
+citation: 'Lowry, Griffin, Erika Rezende Silva, Jeannene Matthews, Ayumi Shoji, Timothy Turvey, George Blakey, David Zajac, Jeff Mielke, and Laura Anne Jacox. (2025). &quot;A Lingual Ultrasound Study of Speech in Patients With Cleft Lip and Palate Following Orthognathic Surgery.&quot; <i>Orthodontics & Craniofacial Research</i>.'
 ---
 
 **ABSTRACT** <br> <br>
