@@ -1,5 +1,5 @@
 ---
-title: "Fall 2022 - ENG210: Introduction to Language and Linguistics"
+title: "2022 Fall - ENG210: Introduction to Language and Linguistics"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2022-fall-teaching
