@@ -1,0 +1,8 @@
+---
+title: "2024 Spring - ENG210: Introduction to Language and Linguistics"
+collection: teaching
+type: "ENG"
+permalink: /teaching/2024_spring_teaching
+venue: "North Carolina State University, English"
+date: 2014-01-01
+---
