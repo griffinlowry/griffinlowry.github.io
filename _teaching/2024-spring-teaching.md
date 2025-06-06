@@ -4,6 +4,6 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2024_spring_teaching
 venue: "North Carolina State University, Department of English"
-date: 2014-01-01
+date: 2024
 ---
 **Instructor** Daulton Selke
