@@ -6,4 +6,4 @@ permalink: /teaching/2024_spring_teaching
 venue: "North Carolina State University, Department of English"
 date: 2024-01-01
 ---
-**Instructor** Daulton Selke
+**Instructor**: Daulton Selke
