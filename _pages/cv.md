@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.A. in English (Sociolinguistics concentration), North Carolina State University, 2024
+* B.A. in Linguistics and French, University of Kansas, 2021
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* May 2024 - Present: Research Coordinator
+  * Jacox Lab, Adams School of Dentistry, UNC at Chapel Hill
+  * Supervisor: Laura Jacox
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2023 - Spring 2024: Linguistics Lab Manager
+  * North Carolina State University
+  * Supervisor: Jeff Mielke
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2022 - Spring 2024: Graduate Teaching Assistant
+  * North Carolina State University
   
 Skills
 ======
@@ -61,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Fall 2023 - Spring 2024: Vice President of the Linguistic Diversity Ambassadors
