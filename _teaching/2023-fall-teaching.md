@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2023-fall-teaching
 venue: "North Carolina State University, English"
-date: 2023
+date: 2023-01-01
 ---
 
 **Instructor**: Erik Thomas
