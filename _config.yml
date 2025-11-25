@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Griffin Lowry"
 title_separator          : "-"
 name                     : &name "Griffin Lowry"
-description              : &description "Research Coordinator at the Jacox Lab, UNC Adams School of Dentistry"
+description              : &description "Linguistics PhD Student"
 url                      : https://griffinlowry.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "griffinlowry/griffinlowry.github.io"
@@ -25,11 +25,11 @@ author:
   avatar           : "air.png"
   name             : "Griffin Lowry"
   pronouns         : # example: "she/her"  
-  bio              : "Research Coordinator at the Jacox Lab"
-  location         : "North Carolina"
-  employer         : "UNC at Chapel Hill"
+  bio              : "Linguistics PhD Student"
+  location         : "Bloomington"
+  employer         : "Indiana University"
   uri              : # URL
-  email            : "jglowry@ad.unc.edu" 
+  email            : "jglowry@iu.edu" 
 
   # Academic websites
   academia         : # URL
