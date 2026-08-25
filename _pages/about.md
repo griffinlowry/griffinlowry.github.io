@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student at Indiana University (Go Hoosiers! ❤️🤍) studying linguistics and minoring in speech and hearing sciences. I am interested in how articulation relates to acoustics, phonological inventories, language variation and change, language acquisition, and anatomy. Most of my research thus far has focused on dialects of North American English, but I am also interested in doing cross-linguistic research that aims to further understand the mechanisms of language change. 
+I am a second year PhD student at Indiana University (Go Hoosiers! ❤️🤍) studying linguistics and minoring in speech, language and hearing sciences. I am interested in how articulation relates to acoustics, phonological inventories, language variation and change, language acquisition, and anatomy. Most of my research thus far has focused on dialects of North American English, but I also have experience with cross-linguistic research, including Polish. 
 <br> 
 <br>
 Before coming to Indiana, I was a research coordinator at the
