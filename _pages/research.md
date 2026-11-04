@@ -1,5 +1,5 @@
 ---
-permalink: /research
+permalink: /research/
 title: "Research"
 ---
 <span style="font-size=14px;"><b>English Quotative System</b>
