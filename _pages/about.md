@@ -8,7 +8,7 @@ redirect_from:
 ---
 <b> Hello! </b>
 <br>
-I am a second year PhD student at Indiana University studying Linguistics and minoring in Speech, Language and Hearing Sciences. I am interested in how articulation relates to acoustics, phonological inventories, language variation and change, language acquisition, and anatomy. Most of my research thus far has focused on dialects of North American English, but I also have experience with research on other languages, including Polish, Jhangochi, Norwegian, and Ano. You can read more about my work on the Research page.
+I am a second year PhD student at Indiana University studying Linguistics and minoring in Speech, Language and Hearing Sciences. I am interested in how articulation relates to acoustics, phonological inventories, language variation and change, language acquisition, and anatomy. Most of my research thus far has focused on dialects of North American English, but I also have experience with research on other languages, including Polish, Jhangochi, Norwegian, and Ano.
 <br> 
 <br>
 Before coming to Indiana, I was a research coordinator at the
